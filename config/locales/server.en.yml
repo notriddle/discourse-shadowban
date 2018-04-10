@@ -1,0 +1,6 @@
+# encoding: utf-8
+en:
+  site_settings:
+    shadowban_enabled: "Enable shadowban"
+    shadowban_users: "Users subject to the shadowban"
+    shadowban_show_to_staff: "Show shadowbanned posts to staff"

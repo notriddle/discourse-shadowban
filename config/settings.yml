@@ -1,0 +1,10 @@
+plugins:
+  shadowban_enabled:
+    default: true
+    client: true
+  shadowban_users:
+    default: ""
+    client: false
+  shadowban_show_to_staff:
+    default: false
+    client: true
