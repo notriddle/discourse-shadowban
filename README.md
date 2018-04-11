@@ -1,4 +1,6 @@
 Discourse shadowban
 ===================
 
-Add a flag to a user that makes their posts invisible to everybody else.
+A [plugin] to make a user's posts invisible to everybody else.
+
+[plugin]: https://meta.discourse.org/t/install-a-plugin/19157
